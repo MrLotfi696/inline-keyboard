@@ -7,3 +7,7 @@ Inline Keyboard Telegram | اینلاین کیبورد تلگرام
 1) کافیه لاین 83 را ادیت بزنید - مقدار اول توکن ربات - مقدار دوم ایدی عددی چنل
 2) ست وبهوک فایل inlinekeyboard.php
 
+نمونه کارکرد ربات :
+
+![photo](https://user-images.githubusercontent.com/96908847/147971687-f62424f6-eb3a-434d-ad5d-f4030eb11575.jpg)
+
