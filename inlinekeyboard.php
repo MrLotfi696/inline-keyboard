@@ -80,4 +80,4 @@ $keyboard = json_encode([
         ]
     ]
 ]);
-$run = new ZarinSource("2054440592:AAHpU2BAdtRoIB59jSvTaqwpQfemKFm6jq8","-1001384935030",$keyboard);
+$run = new ZarinSource("TOKEN","ID Channel",$keyboard);
