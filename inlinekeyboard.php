@@ -1,9 +1,6 @@
 <?php
 # Author : @Mr_lotfim | Mr Mohammad Hossein Lotfi
-# Channel Author : @ZarinSource
-/*
-اوپن شده توسط @MaMaD_NoP در چنل @ZarinSource
-*/
+# Channel Author : @ZarinSource
 /*
 راهنمای نصب ربات :
 
