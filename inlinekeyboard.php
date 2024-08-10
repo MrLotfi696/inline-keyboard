@@ -1,5 +1,5 @@
 <?php
-# Author : @MaMaD_NoP | Mr Mohammad Lotfi
+# Author : @Mr_lotfim | Mr Mohammad Hossein Lotfi
 # Channel Author : @ZarinSource
 /*
 اوپن شده توسط @MaMaD_NoP در چنل @ZarinSource
